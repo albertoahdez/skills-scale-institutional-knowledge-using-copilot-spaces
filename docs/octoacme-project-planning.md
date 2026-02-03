@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Personas/roles assigned to each backlog item (see [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md))
+- [ ] Handoff checklist attached for items requiring design/ops/support handoffs (see [templates/handoff-checklist.md](./templates/handoff-checklist.md))

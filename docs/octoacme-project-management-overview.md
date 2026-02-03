@@ -14,19 +14,32 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
+For detailed role descriptions, responsibilities, and interaction patterns, see [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md).
+
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: design user experiences and validate usability.
+- Data Analyst: track metrics and provide insights.
+- DevOps Engineer: manage CI/CD, infrastructure, and deployments.
+- Technical Writer: create and maintain documentation.
+- Customer Support: provide user support and collect feedback.
 - Stakeholders: provide inputs and approvals.
 
+See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for complete persona definitions including RACI guidance for common activities.
+
 ## Key Artifacts
-- Project Charter / One-pager
-- Roadmap and Release Plan
-- Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
-- Retrospective notes and action items
+Each artifact should have a **named owner** and **primary backup** to ensure accountability and continuity.
+
+- Project Charter / One-pager (Owner: PM, Backup: PdM)
+- Roadmap and Release Plan (Owner: PdM, Backup: PM)
+- Sprint/Iteration Backlog (Owner: PM/Tech Lead, Backup: PdM)
+- Acceptance Criteria & Definition of Done (Owner: PdM, Backup: Tech Lead)
+- Risk Register (Owner: PM, Backup: Project Sponsor)
+- Retrospective notes and action items (Owner: PM, Backup: Team Lead)
+
+For templates and checklists, see [templates/](./templates/) and [checklists/](./checklists/).
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -40,6 +53,21 @@ Applies to all cross-functional projects that deliver product features, services
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+
+For a detailed communication matrix template, see [templates/communication-matrix.md](./templates/communication-matrix.md).
+
+## RACI Practices
+RACI (Responsible, Accountable, Consulted, Informed) matrices help clarify who does what on project activities.
+
+- **Responsible**: Does the work
+- **Accountable**: Ultimately answerable for completion and quality (typically one person)
+- **Consulted**: Provides input before decisions/actions
+- **Informed**: Kept up-to-date on progress
+
+**Where to document role assignments:**
+- Include RACI or role assignments in your project README or one-pager
+- Reference [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for standard RACI guidance by role
+- Customize based on your team structure and project needs
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
