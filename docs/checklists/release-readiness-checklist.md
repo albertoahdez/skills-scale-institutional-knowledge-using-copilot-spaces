@@ -54,7 +54,7 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
   - **Notes**: _____________________________________
 
 - [ ] **Compliance Requirements Met**: Any regulatory/compliance requirements addressed
-  - **Who verifies**: Project Manager / Compliance Team
+  - **Who verifies**: Project Manager (PM) / Compliance Team
   - **Status**: ☐ Complete | ☐ N/A | Date: ____
   - **Notes**: _____________________________________
 
@@ -97,7 +97,7 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
 ### Documentation & Communication
 
 - [ ] **Release Notes Written**: User-facing changes documented
-  - **Who verifies**: Technical Writer / Product Manager
+  - **Who verifies**: Technical Writer / Product Manager (PdM)
   - **Status**: ☐ Complete | Date: ____
   - **Review completed by**: __________
   - **Location**: _____________________________________
@@ -118,24 +118,24 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
   - **Location**: _____________________________________
 
 - [ ] **Support Team Briefed**: Support trained on new features and known issues
-  - **Who verifies**: Customer Support Lead / Product Manager
+  - **Who verifies**: Customer Support Lead / Product Manager (PdM)
   - **Status**: ☐ Complete | Date: ____
   - **Training date**: __________ | **Materials location**: __________
 
 ### Stakeholder Alignment
 
 - [ ] **Stakeholder Notification Prepared**: Communication to key stakeholders drafted
-  - **Who verifies**: Project Manager / Product Manager
+  - **Who verifies**: Project Manager (PM) / Product Manager (PdM)
   - **Status**: ☐ Complete | Date: ____
   - **Notification plan**: _____________________________________
 
 - [ ] **Customer Communication Ready**: If applicable, customer announcement prepared
-  - **Who verifies**: Product Manager / Marketing
+  - **Who verifies**: Product Manager (PdM) / Marketing
   - **Status**: ☐ Complete | ☐ N/A | Date: ____
   - **Notes**: _____________________________________
 
 - [ ] **Release Window Confirmed**: Deployment time scheduled and communicated
-  - **Who verifies**: Project Manager
+  - **Who verifies**: Project Manager (PM)
   - **Status**: ☐ Complete | Date: ____
   - **Release window**: __________
   - **Notified**: ☐ Team | ☐ Stakeholders | ☐ Customers
@@ -154,7 +154,7 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
   - **Test scenarios**: _____________________________________
 
 - [ ] **On-Call Assignments**: On-call coverage confirmed for release window
-  - **Who verifies**: Project Manager / DevOps Lead
+  - **Who verifies**: Project Manager (PM) / DevOps Lead
   - **Status**: ☐ Complete | Date: ____
   - **On-call roster**: _____________________________________
 
@@ -171,7 +171,7 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
   - **Signature/Name**: _____________________________________
 
 - [ ] **Product Sign-Off**: Product manager confirms feature readiness
-  - **Who approves**: Product Manager
+  - **Who approves**: Product Manager (PdM)
   - **Status**: ☐ Approved | Date: __________
   - **Signature/Name**: _____________________________________
 
@@ -181,7 +181,7 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
   - **Signature/Name**: _____________________________________
 
 - [ ] **Release Manager Sign-Off**: PM/Release manager confirms overall readiness
-  - **Who approves**: Project Manager
+  - **Who approves**: Project Manager (PM)
   - **Status**: ☐ Approved | Date: __________
   - **Signature/Name**: _____________________________________
 
@@ -193,8 +193,8 @@ Pre-release verification checklist mapped to specific roles to ensure all critic
 **Decision Time**: __________  
 
 **Attendees**:
-- Project Manager: __________
-- Product Manager: __________
+- Project Manager (PM): __________
+- Product Manager (PdM): __________
 - Dev Lead: __________
 - QA Lead: __________
 - DevOps Engineer: __________
@@ -229,7 +229,7 @@ _____________________________________
   - **Verification time**: __________
   
 - [ ] **Stakeholders Notified**: Release completion communicated
-  - **Who notifies**: Project Manager
+  - **Who notifies**: Project Manager (PM)
   - **Notification time**: __________
 
 ---
